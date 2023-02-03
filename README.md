@@ -24,7 +24,7 @@ To design a web application for a standard calculator.
 
 ## PROGRAM :
 
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -93,6 +93,7 @@ To design a web application for a standard calculator.
         </table>
         </form>
     </body>
+    ```
     
 ## OUTPUT:
 
